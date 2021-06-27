@@ -7,3 +7,5 @@ Some text!
 More text here!
 
 ## Branch change
+New text here
+Line for conflicts
